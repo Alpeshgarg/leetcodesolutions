@@ -41,11 +41,13 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0032-longest-valid-parentheses) |
 | [1025-minimum-cost-for-tickets](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1025-minimum-cost-for-tickets) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/2562-count-ways-to-build-good-strings) |
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0032-longest-valid-parentheses) |
 | [1524-string-matching-in-an-array](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -70,4 +72,8 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
