@@ -8,12 +8,14 @@
 | [0037-sudoku-solver](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0037-sudoku-solver) |
 | [1025-minimum-cost-for-tickets](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1524-string-matching-in-an-array](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1524-string-matching-in-an-array) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0037-sudoku-solver) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Backtracking
 |  |
@@ -82,4 +84,8 @@
 |  |
 | ------- |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/3455-minimum-length-of-string-after-operations) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
