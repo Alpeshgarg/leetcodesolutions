@@ -9,6 +9,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1524-string-matching-in-an-array](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1524-string-matching-in-an-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
@@ -89,6 +90,7 @@
 | ------- |
 | [2509-minimize-xor](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/2792-neighboring-bitwise-xor) |
 ## Greedy
 |  |
 | ------- |
