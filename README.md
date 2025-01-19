@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0037-sudoku-solver) |
+| [0407-trapping-rain-water-ii](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0407-trapping-rain-water-ii) |
 | [1025-minimum-cost-for-tickets](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1524-string-matching-in-an-array) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0037-sudoku-solver) |
+| [0407-trapping-rain-water-ii](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Tree
 |  |
@@ -39,6 +41,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Binary Tree
@@ -105,6 +108,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Shortest Path
 |  |
