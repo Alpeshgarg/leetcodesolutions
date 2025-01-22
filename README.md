@@ -10,6 +10,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1524-string-matching-in-an-array) |
+| [1876-map-of-highest-peak](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/2145-grid-game) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/2792-neighboring-bitwise-xor) |
@@ -31,6 +32,7 @@
 | [0037-sudoku-solver](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0037-sudoku-solver) |
 | [0407-trapping-rain-water-ii](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/2145-grid-game) |
 ## Tree
 |  |
@@ -46,6 +48,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1876-map-of-highest-peak) |
 ## Binary Tree
 |  |
 | ------- |
