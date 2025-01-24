@@ -42,11 +42,13 @@
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0820-find-eventual-safe-states) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1876-map-of-highest-peak) |
 ## Binary Tree
@@ -110,6 +112,7 @@
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -120,4 +123,8 @@
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
