@@ -25,6 +25,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0037-sudoku-solver) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Backtracking
@@ -81,6 +82,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0032-longest-valid-parentheses) |
 | [1524-string-matching-in-an-array](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Prefix Sum
@@ -112,6 +114,7 @@
 ## Counting
 |  |
 | ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
 |  |
