@@ -90,6 +90,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Prefix Sum
 |  |
@@ -117,6 +118,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0032-longest-valid-parentheses) |
+| [3447-clear-digits](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/3447-clear-digits) |
 ## Counting
 |  |
 | ------- |
@@ -173,6 +175,7 @@
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/3447-clear-digits) |
 ## Math
 |  |
 | ------- |
