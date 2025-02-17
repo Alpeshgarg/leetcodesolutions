@@ -29,6 +29,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0037-sudoku-solver) |
+| [1160-letter-tile-possibilities](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0037-sudoku-solver) |
+| [1160-letter-tile-possibilities](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Matrix
 |  |
@@ -88,6 +90,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0032-longest-valid-parentheses) |
+| [1160-letter-tile-possibilities](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1160-letter-tile-possibilities) |
 | [1524-string-matching-in-an-array](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -124,6 +127,7 @@
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/2448-count-number-of-bad-pairs) |
