@@ -42,6 +42,7 @@
 | [0037-sudoku-solver](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0037-sudoku-solver) |
 | [1160-letter-tile-possibilities](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Matrix
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [1524-string-matching-in-an-array](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -123,6 +125,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0032-longest-valid-parentheses) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/3447-clear-digits) |
 ## Counting
 |  |
@@ -141,6 +144,7 @@
 ## Greedy
 |  |
 | ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/2509-minimize-xor) |
 ## Graph
 |  |
