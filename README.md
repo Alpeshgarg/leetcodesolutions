@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
@@ -64,6 +65,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0820-find-eventual-safe-states) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -85,6 +87,7 @@
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Dynamic Programming
 |  |
@@ -96,6 +99,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0032-longest-valid-parentheses) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1160-letter-tile-possibilities) |
 | [1524-string-matching-in-an-array](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1537-maximum-score-after-splitting-a-string) |
