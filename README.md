@@ -12,6 +12,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1524-string-matching-in-an-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -94,6 +95,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0032-longest-valid-parentheses) |
 | [1025-minimum-cost-for-tickets](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1025-minimum-cost-for-tickets) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/2562-count-ways-to-build-good-strings) |
 ## String
 |  |
