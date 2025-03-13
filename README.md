@@ -26,6 +26,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3429-special-array-i](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3643-zero-array-transformation-ii](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2145-grid-game](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/2145-grid-game) |
+| [3643-zero-array-transformation-ii](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/3643-zero-array-transformation-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -208,4 +210,8 @@
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [3643-zero-array-transformation-ii](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
