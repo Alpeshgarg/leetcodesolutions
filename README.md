@@ -9,6 +9,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0407-trapping-rain-water-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1025-minimum-cost-for-tickets) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1364-tuple-with-same-product) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1524-string-matching-in-an-array) |
@@ -213,5 +214,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [3643-zero-array-transformation-ii](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
