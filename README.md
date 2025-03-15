@@ -20,6 +20,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/2145-grid-game) |
 | [2448-count-number-of-bad-pairs](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2690-house-robber-iv](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/2690-house-robber-iv) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/2792-neighboring-bitwise-xor) |
@@ -215,5 +216,6 @@
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2690-house-robber-iv](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/Alpeshgarg/leetcodesolutions/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
